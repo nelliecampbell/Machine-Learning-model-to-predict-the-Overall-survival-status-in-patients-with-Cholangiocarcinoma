@@ -1,5 +1,5 @@
 # Women-Who-Code
-## Machine Learning model to predict the Overall survival status in patients with Cholangiocarcinoma
+# Machine Learning model to predict the Overall survival status in patients with Cholangiocarcinoma
 
 To date, cholangiocarcinoma (CCA) is the second most common liver cancer after hepatocellular carcinoma (HCC), and patients with its diagnosis have increased over the years(1). Even though CCA is a rare cancer, its incidence, however, says otherwise. CCA can develop in one of three anatomical locations, intrahepatic (iCCA), perihilar(pCCA), and distal (dCCA)(2). Over the years, the incidence and mortality of CCA have increased enough to make it a world health problem(3), especially the iCCA(2). Nevertheless, CCA remains a rare type of cancer yet to be diagnosed at its early stages. This has led to patients having limited treatment options at the time of diagnosis, and surgery is the only possible treatment modality for a cure.
 For this project we wanted to use a machine learning model to predict the overall survival status in patients with cholangiocarcinoma using the publicly available Cancer Genomics database The Cancer Genome Atlas Program (TCGA)
